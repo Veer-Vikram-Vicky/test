@@ -1,2 +1,2 @@
 # test
-i have added some changes
+Some changes were made
